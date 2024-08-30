@@ -1,0 +1,10 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Alexander the .*</title>
+        <link>http://alexanderdeprez.net/</link>
+        <description>This is my cool site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>info@aldetux.net (Alexander Deprez)</managingEditor>
+            <webMaster>info@aldetux.net (Alexander Deprez)</webMaster><lastBuildDate>Thu, 29 Aug 2024 16:57:33 &#43;0200</lastBuildDate>
+            <atom:link href="http://alexanderdeprez.net/index.xml" rel="self" type="application/rss+xml" />
+        </channel>
+</rss>

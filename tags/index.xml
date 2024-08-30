@@ -1,0 +1,8 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tags - Tag - Alexander the .*</title>
+        <link>http://alexanderdeprez.net/tags/</link>
+        <description>Tags - Tag - Alexander the .*</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>info@aldetux.net (Alexander Deprez)</managingEditor>
+            <webMaster>info@aldetux.net (Alexander Deprez)</webMaster><atom:link href="http://alexanderdeprez.net/tags/" rel="self" type="application/rss+xml" /></channel>
+</rss>
