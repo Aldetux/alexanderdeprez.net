@@ -4,5 +4,13 @@
         <link>http://alexanderdeprez.net/categories/</link>
         <description>Categories - Category - Alexander the .*</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>info@aldetux.net (Alexander Deprez)</managingEditor>
-            <webMaster>info@aldetux.net (Alexander Deprez)</webMaster><atom:link href="http://alexanderdeprez.net/categories/" rel="self" type="application/rss+xml" /></channel>
+            <webMaster>info@aldetux.net (Alexander Deprez)</webMaster><lastBuildDate>Thu, 29 Aug 2024 19:57:33 &#43;0200</lastBuildDate><atom:link href="http://alexanderdeprez.net/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>Mental Health</title>
+    <link>http://alexanderdeprez.net/categories/mental-health/</link>
+    <pubDate>Thu, 29 Aug 2024 19:57:33 &#43;0200</pubDate>
+    <author>Alexander Deprez</author>
+    <guid>http://alexanderdeprez.net/categories/mental-health/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
 </rss>

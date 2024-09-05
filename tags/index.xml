@@ -4,5 +4,13 @@
         <link>http://alexanderdeprez.net/tags/</link>
         <description>Tags - Tag - Alexander the .*</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>info@aldetux.net (Alexander Deprez)</managingEditor>
-            <webMaster>info@aldetux.net (Alexander Deprez)</webMaster><atom:link href="http://alexanderdeprez.net/tags/" rel="self" type="application/rss+xml" /></channel>
+            <webMaster>info@aldetux.net (Alexander Deprez)</webMaster><lastBuildDate>Thu, 29 Aug 2024 19:57:33 &#43;0200</lastBuildDate><atom:link href="http://alexanderdeprez.net/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>Goals</title>
+    <link>http://alexanderdeprez.net/tags/goals/</link>
+    <pubDate>Thu, 29 Aug 2024 19:57:33 &#43;0200</pubDate>
+    <author>Alexander Deprez</author>
+    <guid>http://alexanderdeprez.net/tags/goals/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
 </rss>
