@@ -4,5 +4,29 @@
         <link>http://alexanderdeprez.net/tags/</link>
         <description>Tags - Tag - Alexander the .*</description>
         <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>info@aldetux.net (Alexander Deprez)</managingEditor>
-            <webMaster>info@aldetux.net (Alexander Deprez)</webMaster><atom:link href="http://alexanderdeprez.net/tags/" rel="self" type="application/rss+xml" /></channel>
+            <webMaster>info@aldetux.net (Alexander Deprez)</webMaster><lastBuildDate>Mon, 07 Jul 2025 17:14:46 &#43;0200</lastBuildDate><atom:link href="http://alexanderdeprez.net/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>Mental Health</title>
+    <link>http://alexanderdeprez.net/tags/mental-health/</link>
+    <pubDate>Mon, 07 Jul 2025 17:14:46 &#43;0200</pubDate>
+    <author>Alexander Deprez</author>
+    <guid>http://alexanderdeprez.net/tags/mental-health/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Personal</title>
+    <link>http://alexanderdeprez.net/tags/personal/</link>
+    <pubDate>Mon, 07 Jul 2025 17:14:46 &#43;0200</pubDate>
+    <author>Alexander Deprez</author>
+    <guid>http://alexanderdeprez.net/tags/personal/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Weight Loss</title>
+    <link>http://alexanderdeprez.net/tags/weight-loss/</link>
+    <pubDate>Mon, 07 Jul 2025 17:14:46 &#43;0200</pubDate>
+    <author>Alexander Deprez</author>
+    <guid>http://alexanderdeprez.net/tags/weight-loss/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
 </rss>
